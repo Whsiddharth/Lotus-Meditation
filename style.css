@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background: rgb(211, 233, 233);
+    font-family: montserrat;
+}
+h2:hover{
+    font-size: 25px;
+    cursor: pointer;
+}
+.tip{
+    text-align: left;
+    margin-left: 525px;
+}
+button{
+    background-color: teal;
+    color: white;
+    font-size: 25;
+    font-family: fredoka one;
+    border-radius:10px;
+}
